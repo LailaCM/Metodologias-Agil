@@ -29,5 +29,5 @@ As metodologias ágeis podem ser aplicadas a qualquer tipo de projeto de desenvo
 <img src="https://robsoncamargo.com.br/files/thumbs/blog_0328-metodologia-agil-1-800x333.png?v=1639596165
 " style="width:7000px">
 
-
+oi
 
