@@ -26,4 +26,3 @@ As metodologias ágeis podem ser aplicadas a qualquer tipo de projeto de desenvo
 - Melhor satisfação do cliente: as metodologias ágeis priorizam a entrega de valor ao cliente,o que resulta em uma maior satisfação do cliente e em uma relação de longo prazo entre o time de desenvolvimento e o cliente.
 <img src="https://robsoncamargo.com.br/files/thumbs/blog_0328-metodologia-agil-1-800x333.png?v=1639596165">
 
-
