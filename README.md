@@ -14,7 +14,9 @@ As metodologias ágeis geralmente definem os seguintes papéis e responsabilidad
 - Product Owner (PO): é o representante do cliente e é responsável por definir e priorizar as funcionalidades do produto. O PO trabalha em estreita colaboração com o time de desenvolvimento para garantir que o produto atenda às necessidades do cliente.
 - Scrum Master: é o facilitador do processo de desenvolvimento e é responsável por garantir que o time de desenvolvimento siga as práticas e cerimônias definidas pela metodologia ágil escolhida. O Scrum Master também é responsável por remover quaisquer obstáculos que possam afetar o progresso do time de desenvolvimento.
 - Desenvolvedores: são os membros do time de desenvolvimento responsáveis por implementar as funcionalidades do produto. Eles trabalham em estreita colaboração com o PO e o Scrum Master para garantir que as funcionalidades sejam entregues de acordo com as prioridades e o cronograma definidos.
+<center>
 <img src="https://4futureblob.blob.core.windows.net/img/2022/07/papeisscrum.png" style="width:500px">
+</center>
 
 ## Aplicação a Gestão de Projetos
 As metodologias ágeis podem ser aplicadas a qualquer tipo de projeto de desenvolvimento de software, desde projetos pequenos e simples até projetos grandes e complexos. Algumas das vantagens de usar metodologias ágeis em gestão de projetos incluem:
