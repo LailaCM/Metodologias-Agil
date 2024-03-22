@@ -3,19 +3,19 @@
 As metodologias ágeis são um conjunto de práticas e filosofias de desenvolvimento de software que se concentram em entregar valor ao cliente de maneira rápida e contínua. Elas são baseadas em colaboração, flexibilidade e adaptação à mudança, e buscam minimizar os riscos e maximizar a satisfação do cliente.
 
 Algumas das principais características das metodologias ágeis incluem:
-- Iterativas e incrementais: as metodologias ágeis são baseadas em ciclos de desenvolvimento curtos, chamados de iterações ou sprints, que resultam em incrementos de software entregues ao cliente.
-- Colaborativas: as metodologias ágeis promovem a colaboração entre o time de desenvolvimento e o cliente, através de reuniões regulares e mecanismos de comunicação claros.
-- Adaptativas: as metodologias ágeis são flexíveis e permitem que o time de desenvolvimento adapte o processo de desenvolvimento às mudanças no escopo ou nas prioridades do projeto.
-- Focadas no valor: as metodologias ágeis priorizam a entrega de funcionalidades que trazem valor ao cliente, em vez de se concentrar em detalhes técnicos ou documentação excessiva.
+- Iterativas e incrementais: As metodologias ágeis são baseadas em ciclos de desenvolvimento curtos, chamados de iterações ou sprints, que resultam em incrementos de software entregues ao cliente.
+- Colaborativas: As metodologias ágeis promovem a colaboração entre o time de desenvolvimento e o cliente, através de reuniões regulares e mecanismos de comunicação claros.
+- Adaptativas: As metodologias ágeis são flexíveis e permitem que o time de desenvolvimento adapte o processo de desenvolvimento às mudanças no escopo ou nas prioridades do projeto.
+- Focadas no valor: As metodologias ágeis priorizam a entrega de funcionalidades que trazem valor ao cliente, em vez de se concentrar em detalhes técnicos ou documentação excessiva.
 <p align="center">
 <img src="https://dhg1h5j42swfq.cloudfront.net/2022/02/07094325/screen-shot-2022-02-07-at-9-43-10-am-1536x826.png" style="width:7000px">
 </p>
 
 ## Papéis e responsabilidades
 As metodologias ágeis geralmente definem os seguintes papéis e responsabilidades:
-- Product Owner (PO): é o representante do cliente e é responsável por definir e priorizar as funcionalidades do produto. O PO trabalha em estreita colaboração com o time de desenvolvimento para garantir que o produto atenda às necessidades do cliente.
-- Scrum Master: é o facilitador do processo de desenvolvimento e é responsável por garantir que o time de desenvolvimento siga as práticas e cerimônias definidas pela metodologia ágil escolhida. O Scrum Master também é responsável por remover quaisquer obstáculos que possam afetar o progresso do time de desenvolvimento.
-- Desenvolvedores: são os membros do time de desenvolvimento responsáveis por implementar as funcionalidades do produto. Eles trabalham em estreita colaboração com o PO e o Scrum Master para garantir que as funcionalidades sejam entregues de acordo com as prioridades e o cronograma definidos.
+- Product Owner (PO): É o representante do cliente e é responsável por definir e priorizar as funcionalidades do produto. O PO trabalha em estreita colaboração com o time de desenvolvimento para garantir que o produto atenda às necessidades do cliente.
+- Scrum Master: É o facilitador do processo de desenvolvimento e é responsável por garantir que o time de desenvolvimento siga as práticas e cerimônias definidas pela metodologia ágil escolhida. O Scrum Master também é responsável por remover quaisquer obstáculos que possam afetar o progresso do time de desenvolvimento.
+- Desenvolvedores: São os membros do time de desenvolvimento responsáveis por implementar as funcionalidades do produto. Eles trabalham em estreita colaboração com o PO e o Scrum Master para garantir que as funcionalidades sejam entregues de acordo com as prioridades e o cronograma definidos.
 <p align="center">
 <img src="https://4futureblob.blob.core.windows.net/img/2022/07/papeisscrum.png" style="width:500px">
 </p>
