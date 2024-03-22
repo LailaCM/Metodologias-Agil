@@ -32,3 +32,9 @@ As metodologias ágeis podem ser aplicadas a qualquer tipo de projeto de desenvo
 - Awari.com.br
 - pt.linkedin.com
 
+## Integrantes
+|Participantes|
+|-|
+|Isabel Manias Piccolomini|
+|Laila Casadei Macêdo|
+
