@@ -33,6 +33,7 @@ As metodologias ágeis podem ser aplicadas a qualquer tipo de projeto de desenvo
 - pt.linkedin.com
 
 ## Integrantes
+|Trabalho produzido por|
 |-|
 |Isabel Manias Piccolomini|
 |Laila Casadei Macêdo|
